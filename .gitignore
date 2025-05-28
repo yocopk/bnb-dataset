@@ -1,0 +1,40 @@
+# Notebook checkpoints (backup),
+.ipynb_checkpoints/
+
+# File temporanei di Jupyter,
+*.pyc
+*.pyo
+*.pyd
+pycache/
+
+# Cartelle virtualenv,
+env/
+venv/
+ENV/
+.venv/
+
+# File di sistema,
+.DS_Store
+Thumbs.db
+
+# Config personali di Jupyter,
+.jupyter/
+.ipython/
+
+# File di output o export,
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.log
+*.out
+*.bak
